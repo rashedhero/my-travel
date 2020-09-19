@@ -1,0 +1,17 @@
+/* .navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  } */
+
+.main_div{
+
+background-image: url('https://ibb.co/dGrHMRg.png');
+background-size: cover;
+height: 100vh;
+
+}
+ 
+.main_div .nav{
+  display:flex;
+  justify-content: center;
+}
